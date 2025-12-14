@@ -8,7 +8,7 @@ The script allows you to configure the tolerance of the simplification A.K.A the
 
 ##  Vertex-Clustering Results 
 ### Grid
-
+![Parametrage](Images/grid.jpg)
 ### Small Tolerance
 ![Parametrage](Images/Test_Tolerance_Grande.jpg)
 ### Big Tolerance
