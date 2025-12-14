@@ -412,7 +412,7 @@ MonoBehaviour:
   nbTrianglesToRemove: 0
   size: 1
   reduceTriangles: 1
-  tolerance: 0.025
+  tolerance: 0.06
 --- !u!4 &773463983
 Transform:
   m_ObjectHideFlags: 0
