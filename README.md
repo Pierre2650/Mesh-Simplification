@@ -1,4 +1,4 @@
-# Model Simplification 
+# Mesh Model Simplification 
 ## Mesh Simplification 
 Unity project for implementing Vertex-Clustering model simplification method.
 
